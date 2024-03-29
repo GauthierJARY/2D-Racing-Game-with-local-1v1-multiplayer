@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ensta/in104/build",
+  "command": "g++-10   -I/home/ensta/in104/repository/inc  -O3 -DNDEBUG   -Wall -Wextra -std=c++20 -O3 -std=c++2a -o CMakeFiles/sfml-app.dir/src/example.cpp.o -c /home/ensta/in104/repository/src/example.cpp",
+  "file": "/home/ensta/in104/repository/src/example.cpp"
+},
+{
+  "directory": "/home/ensta/in104/build",
+  "command": "g++-10   -I/home/ensta/in104/repository/inc  -O3 -DNDEBUG   -Wall -Wextra -std=c++20 -O3 -std=c++2a -o CMakeFiles/sfml-app.dir/src/main.cpp.o -c /home/ensta/in104/repository/src/main.cpp",
+  "file": "/home/ensta/in104/repository/src/main.cpp"
+}
+]
